@@ -1,2 +1,3 @@
-# female
-buy dog
+#  MyFirstRepo
+
+learning.txt
